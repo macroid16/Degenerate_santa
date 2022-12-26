@@ -1,16 +1,16 @@
 {
-  "CONTRACT_ADDRESS": "0x4a7a81eaea5a3cd7c1ecc5e0b1349b9550f89fca",
-  "SCAN_LINK": "https://goerli.etherscan.io/address/0x4a7a81eaea5a3cd7c1ecc5e0b1349b9550f89fca20",
+  "CONTRACT_ADDRESS": "0xa64c5ec80784675bf289a4722a2eca180212f9db",
+  "SCAN_LINK": "https://etherscan.io/token/0xa64c5ec80784675bf289a4722a2eca180212f9db",
   "NETWORK": {
     "NAME": "Ethereum",
     "SYMBOL": "ETH",
-    "ID": 5
+    "ID": 1
   },
   "NFT_NAME": "Degenerate Santa",
   "SYMBOL": "SANTA",
   "MAX_SUPPLY": 5555,
   "WEI_COST": 800000000000000,
-  "DISPLAY_COST": 0.0,
+  "DISPLAY_COST": 0,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/degenerate-santa",
